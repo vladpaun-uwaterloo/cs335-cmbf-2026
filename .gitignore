@@ -1,1 +1,10 @@
 **/*.venv
+
+**/*.aux
+**/*.log
+**/*.out
+**/*.toc
+**/*.loa
+**/*.synctex.gz
+**/*.fls
+**/*.fdb_latexmk
